@@ -1,0 +1,30 @@
+# CMake generation dependency list for this directory.
+C:/Users/xli252/Desktop/Landmark/test/CMakeLists.txt
+C:/Users/xli252/Desktop/Landmark/test/_build_/CMakeFiles/3.4.3/CMakeSystem.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Users/xli252/Desktop/Landmark/test/_build_/CMakeFiles/3.4.3/CMakeCCompiler.cmake
+C:/Users/xli252/Desktop/Landmark/test/_build_/CMakeFiles/3.4.3/CMakeCXXCompiler.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CMakeGenericSystem.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/Platform/Windows.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/Platform/WindowsPaths.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CMakeCInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/Platform/Windows-MSVC.cmake
+C:/Users/xli252/Desktop/Landmark/test/_build_/CMakeFiles/3.4.3/CMakeRCCompiler.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CMakeRCInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CMakeCXXInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CMakeCommonLanguageInclude.cmake
+C:/Users/xli252/Desktop/Landmark/dlib/cmake
+C:/Users/xli252/Desktop/Landmark/dlib/add_global_compiler_switch.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CheckTypeSize.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CheckIncludeFile.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CheckIncludeFileCXX.cmake
+C:/Users/xli252/Desktop/Landmark/dlib/release_build_by_default
+C:/library/opencv3.1/opencv/_build_/OpenCVConfig-version.cmake
+C:/library/opencv3.1/opencv/_build_/OpenCVConfig.cmake
+C:/library/opencv3.1/opencv/_build_/OpenCVModules.cmake
